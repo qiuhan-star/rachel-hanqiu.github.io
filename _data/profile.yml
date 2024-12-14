@@ -41,11 +41,15 @@ education:
     School of Public Affairs <br/>
     Masrer Student
   date: Sep. 2022 - present
-- name: Peking University
+- name: Hainan University
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
-
+  position: B.A. in Public Administration
+  date: Sep. 2018 - Jul. 2022
+- name: Arizona State University
+  logo: /assets/images/badges/PKU_red.png
+  position: B.S. in Public Service and Public Policy
+  date: Sep. 2018 - May 2022
+  
 # experience:
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
