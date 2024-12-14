@@ -10,7 +10,8 @@ positions:
 
 email: "rachel.hanqiu@gmail.com"
 # cv_link: link-to-your-cv-file
-# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: "https://scholar.google.com/citations?hl=zh-CN&user=9rbR2YsAAAAJ&view_op=list_works&gmla=AL3_zig9ggVZl_jRQGyBKsKRr5ggTPJiyo_U_O-UywY6Uj_M0OFCuBUhUYjL6k08OOy6fqzwy0uded1R135cACTzigY-aU3b1oV7RX1In2Jk0VvMkTTEMPLuaAh_"
+# xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 # github: your_github_id
 # twitter: your_twitter_id  # Do not include the '@' symbol
 wechat_qrcode: /assets/images/etc/wechat.PNG
