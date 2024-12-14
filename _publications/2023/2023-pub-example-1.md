@@ -9,6 +9,6 @@ abstract: >-
 cover:          /assets/images/covers/cover1.jpg
 authors:
 - Qiu, Han
-- Jekyung Lee*
+- Jekyung Lee#
 ---
 citation: 'Qiu, Han, and Jekyung Lee*. 2024. Determinants of Government Transparency: Subnational Evidence from China.'
