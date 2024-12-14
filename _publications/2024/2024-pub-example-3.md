@@ -4,7 +4,6 @@ date:           2024-11-23 00:01:00 +0800
 selected:       true
 pub:            "Journal of Asian Public Policy"
 # pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 abstract: >-
