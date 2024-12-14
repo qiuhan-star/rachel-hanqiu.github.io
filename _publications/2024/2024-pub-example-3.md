@@ -12,7 +12,7 @@ abstract: >-
 cover:          /assets/images/covers/cover3.jpg
 authors:
   - Jiaxi Yang
-  - Han Qiu*
+  - **Han Qiu#**
   - Wenxuan Yu
 links:
   Paper: https://doi.org/10.1080/17516234.2024.2429046
