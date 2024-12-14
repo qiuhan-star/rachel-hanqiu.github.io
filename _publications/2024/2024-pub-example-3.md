@@ -16,6 +16,7 @@ authors:
   - Jiaxi Yang
   - Wenxuan Yu
 links:
+  paperurl: https://doi.org/10.1080/17516234.2024.2429046
   Code: https://github.com/luost26/academic-homepage
   Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
