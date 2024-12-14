@@ -9,7 +9,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2024"
 abstract: >-
   How artificial intelligence is reshaping the role and potential in the field of education? This paper highlights key roles for educators, students, admins, tech firms, and governments.
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/cover1.png
 authors:
   - Jiaxi Yang
   - Han Qiu#
