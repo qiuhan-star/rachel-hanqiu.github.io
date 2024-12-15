@@ -4,7 +4,7 @@ navbar_name: "Rachel"
 
 positions:
 - logo: /assets/images/badges/ASU-Logo.png  # Logo is optional
- - name: To be the woman I want to be, one step at a time.
+  name: To be the woman I want to be, one step at a time.
  - name: Undaunted by the unimaginable, I excel in conquering challenges and redefining what’s achievable.
 
 email: "rachel.hanqiu@gmail.com"
@@ -59,6 +59,10 @@ awards:
 - name: Award Name 2
   date: 2024
 - name: University Graduate Fellowship
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+  date: 2022-2025
+- name: Summa Cum Laude
+  date: 2022
+- name: Dean’s Scholarship
+  date: 2022
+- name: Dean’s Scholarship
+  date: 2022
