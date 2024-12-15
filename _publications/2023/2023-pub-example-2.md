@@ -10,5 +10,5 @@ authors:
   - Qiu, Han
   - Yuheng Lu
   - Xiuyun Yang*
-citation: 'Qiu, Han, Yuheng Lu, and Xiuyun Yang*. Towards a Just Transition Future: A Quantitative Comparative Analysis of 30 Sub-national Governments in China (2010-2020)'
+citation: 'Qiu, Han, Yuheng Lu, and Xiuyun Yang#. Towards a Just Transition Future: A Quantitative Comparative Analysis of 30 Sub-national Governments in China (2010-2020)'
 ---
