@@ -1,16 +1,14 @@
 ---
-title:          "Pharetra Massa Massa Ultricies Mi Nisl Tincidunt"
-date:           2023-01-21 00:01:00 +0800
-selected:       false
-pub_date:       "2023"
-abstract: >-
-   
-cover:          /assets/images/covers/cover2.jpg
+title:          "Towards a Just Transition Future: A Quantitative Comparative Analysis of 30 Sub-national Governments in China (2010-2020)"
+selected:       true
+pub_post:       'Working Paper.'
+pub_date:       "2024"
+#abstract: >-
+#  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Han Qiu
-  - John Doe#
-links:
-  Paper: https://www.biorxiv.org
-  Code: https://github.com
-  Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
+  - Qiu, Han
+  - Yuheng Lu
+  - Xiuyun Yang*
+citation: 'Qiu, Han, Yuheng Lu, and Xiuyun Yang*. Towards a Just Transition Future: A Quantitative Comparative Analysis of 30 Sub-national Governments in China (2010-2020)'
 ---
