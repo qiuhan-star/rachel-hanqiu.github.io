@@ -5,7 +5,7 @@ pub_post:       'Working Paper.'
 pub_date:       "2024"
 #abstract: >-
 #  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover2.jpg
+cover:          /assets/images/covers/working-paper-photo.jpg
 authors:
   - Han Qiu
   - Yuheng Lu
