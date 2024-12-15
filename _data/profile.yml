@@ -13,11 +13,12 @@ email: "rachel.hanqiu@gmail.com"
 gscholar: "https://scholar.google.com/citations?hl=zh-CN&user=9rbR2YsAAAAJ&view_op=list_works&gmla=AL3_zig9ggVZl_jRQGyBKsKRr5ggTPJiyo_U_O-UywY6Uj_M0OFCuBUhUYjL6k08OOy6fqzwy0uded1R135cACTzigY-aU3b1oV7RX1In2Jk0VvMkTTEMPLuaAh_"
 # github: your_github_id
 # twitter: your_twitter_id  # Do not include the '@' symbol
+orcid: "https://orcid.org/0009-0005-3691-6226"
+linkedin: "http://linkedin.com/in/han-qiu-2b3793336"
 wechat_qrcode: /assets/images/etc/wechat.PNG
  wechat_prompt: >-
    Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-linkedin: "http://linkedin.com/in/han-qiu-2b3793336"
-orcid: "https://orcid.org/0009-0005-3691-6226"
+
 
 short_bio_text_justify: false
 short_bio: >-
